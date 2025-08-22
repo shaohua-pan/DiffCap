@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+data/gmm_08.pkl
+data/smpl/*
+checkpoints/diffusion_3d2/model002000000.pt
+checkpoints/diffusion_pose_3dcond2/model002002572.pt
